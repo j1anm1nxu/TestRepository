@@ -7,4 +7,4 @@
 ## Server Password
 
 * e8b50814d035422b8ac8d97de025a99b
-
+* P@ssw0rd
